@@ -1,6 +1,9 @@
 {
   "name": "facerecognition-api",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.1.x"
+  },
   "description": "server for facerecognition",
   "main": "index.js",
   "dependencies": {
